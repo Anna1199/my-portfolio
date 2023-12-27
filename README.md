@@ -23,3 +23,6 @@
 - регрессионное тестирование;
 - релизное тестирование;
 - выпуск новых версий приложений.
+2. Учебный проект в SkyPro по теме API.
+  Проект доступен по ссылке - https://docs.google.com/document/d/1-JJEWCfBdhlfWCae7BgdSzVxQI8WpfAvToO9bMkRzOQ/edit?usp=sharing
+  Выводы: В ходе проекта ознакомилась с работой API вкладки расписание для учителей SkyEng.
